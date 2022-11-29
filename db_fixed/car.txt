@@ -1,0 +1,329 @@
+1	unw636	Torino	Agüero omar	154177642
+2	ttk248	Super Europa	Arroyo Felix	155695414	
+3	wsk844	Suzuki	Arenas Jorge	155378844	
+4	wwz169	Duna	Alvarez Jorge	4977518	
+5	aab370	R-12	Agadia Daniel	4931039	
+6	uga021	Sierra	Algallaras Roberto	4810025	
+7	rqa119	F-147	Albelo Pablo	4814214	
+ 	 	8	akw419	R-12	Americo Nestor	155096782	
+ 	 	9	bmy354	Palio	Aleo Emanuel	00000000000	
+ 	 	10	arl024	F100	Altieri	222222222	
+ 	 	11	cnd879	peugeot partner	xxxxxx	2222222	
+ 	 	12	ruh535	peugeot 504	jose aguirre	2222222	
+ 	 	13	vln711	F 100	Ausili Luis	4973029	
+ 	 	14	RBN203	R 21	Allis Jose	4979951	
+ 	 	15	DUS209	Renault megane	Martín Arce	22222222	
+ 	 	16	CNP875	R 19	Carrasco Angel	4810580	
+ 	 	17	TNI 28	F147	Alba Encima	4973950-4815202	
+ 	 	18	xxx725	P 504	Alvarez Guido	4972283	
+ 	 	19	SKX 81	Pick up 504	Angelini Aldo	4973974	
+ 	 	20	RQC600	R 19	Afif José	4972509	
+ 	 	21	TDF648	Duna	Abbrzzese Daniel	154688483	
+ 	 	22	UFV148	Taunus	Arizu Juan	4975703	
+ 	 	23	SYJ823	Escort	Avala David	155075160	
+ 	 	24	TRH522	P505	Aguero Pablo	4974172	
+ 	 	25	RFB082	Falcon	María Albarracín	4814776	
+ 	 	26	DAS931	R19	Arriga Maria Elena	154677994	
+ 	 	27	TNI137	R9	Antones Estella	4811467	
+ 	 	28	BTH638	Silverado	Alvarez Domingo	4913490	
+ 	 	29	BZL663	Ford Transit	Alegre Luis	4810711	
+ 	 	30	RSV396	Falcon	Albahay Pablo	4816392	
+ 	 	31	RHI988	Regatta	Adamo Enrique	156501807	
+ 	 	32	VKP361	Rambler	Alvino Julio	156552543	
+ 	 	33	UBP260	R12	Arcienaga	155074948	
+ 	 	34	DKD432	Mercedes Clase A	Adamo	4972505	
+ 	 	35	CBU193	Nissan	Altave José	22222222	
+ 	 	36	DTR627	Regatta	Alin José	4814822	
+ 	 	37	WBF464	Duna	Aguirrez José	156588111	
+ 	 	38	VLA001	Spazio	Angeloni Luis	4810571	
+ 	 	39	SXT371	Regatta	Almada susana	4930114	
+ 	 	40	WVN130	Renault 21	Allis José	4979951	
+ 	 	41	ARN154	F100	Eduardo Alejandro	156532608	
+ 	 	42	BTV385	Palio	Avila Ariel	155116685	
+ 	 	43	DUZ578	Partner	Alquimaq Green	2222222	
+ 	 	44	TMI219	F100	Allaca Julio	156592154	
+ 	 	45	AJF571	Fiat 147	Alonso Santiago	4973465	
+ 	 	46	DFA609	Ford Courrier	Allub hermanos	155074183	
+ 	 	47	RRI126	Falcon	Aguero Juan Carlos	155176278	
+ 	 	48	VLJ913	Taunus	Baigorria Orlando	4813561	
+ 	 	49	CWL760	Gol	Bianchinelli Carlos	2222222222	
+ 	 	50	DQQ013	Escort	Bermejo Juan	4973443	
+ 	 	51	SXC187	R12	Bermejo Adolfo	222222222	
+ 	 	52	BOO122	Toyota Corolla	Berton Eduardo	22222222	
+ 	 	53	SUY813	R12	Bressan Sergio	4977079	
+ 	 	54	VNM080	P405	Bustos Alberto	22222222	
+ 	 	55	CTS060	R Megane	Benito Omar	222222222	
+ 	 	56	VRT559	Chevy	Barcudi hnos.	4976797	
+ 	 	57	AWR905	R9	Barroso Nelson	4976005	
+ 	 	58	ATX59	Gol	Berna Gonzalo	4972637	
+ 	 	59	WPG291	P504	Barbaro Carlos	2222222222	
+ 	 	60	BDA179	Gol	Pulga Bermejo Alejandro	2222222222	
+ 	 	61	CHY326	P205	Ballaude Eduardo	4975673	
+ 	 	62	TTE966	Silverado	Bevilakua Vicente	155637023	
+ 	 	63	UTS775	Fiat Duna	Bolcato Abel	222222222	
+ 	 	64	TWP519	Sierra	Barrera Hector	4322210	
+ 	 	65	RAC077	P504	Bustos Jesus	4976307	
+ 	 	66	RND388	Falcon	Bottini Humberto	222222222	
+ 	 	67	VWQ759	R12 Break	Buzzacchi Victor	4932384	
+ 	 	68	CBK592	Fiat Marea	Bendini	4973630	
+ 	 	69	RPB273	Escort	Bernal Eduardo	155631039	
+ 	 	70	RJB251	Dodge 1500	Bustos Claudio	22222222	
+ 	 	71	WPG219	P504	Barbaro Carlos	2222222	
+ 	 	72	UZK550	Chevrolet	Bustos Rodolfo	22222222	
+ 	 	73	DLQ439	VWpolo	Bloise Guillermo	22222222	
+ 	 	74	RNT561	Dodge 200	Barretti Anibal	4975946	
+ 	 	75	BXD335	Golf	Bianchinelli Esteban	154542234	
+ 	 	76	AME487	Suzuki Swist	Borrelli Horacio	4246685	
+ 	 	77	RXN363	Super Europa	Buttini Marcos	4812108	
+ 	 	78	AKA962	Ford Explorer	Bianchinelli Federico	154544730	
+ 	 	79	DFK285	P206	Bertona Leandro	4963834	
+ 	 	80	CQV047	Clio	Brugnola Alberto	4810361	
+ 	 	81	SVK897	P504	Palleres Balbina	4481878	
+ 	 	82	TRC623	P504	Chelar Melchor	222222	
+ 	 	83	RAA480	R12	Collado Juan	4523006	
+ 	 	84	VZK769	Traffic	Cornejo Cristián	4483145	
+ 	 	85	WNI416	Regatta	Costela Enrique	4523303	
+ 	 	86	RCF119	R12	Cervantes gas	22222222	
+ 	 	87	DMG549	Caddy	cervantes gas	4521407	
+ 	 	88	AVH159	Passat	Cola Santiago	22222222	
+ 	 	89	TUB159	Super Europa	Costela Gonzalo	4977611	
+ 	 	90	COL734	Chevrolet silverado	Ciaglo Cristian	4974642	
+ 	 	91	RRX784	Pick up 504	Caponi Oscar	2222222222	
+ 	 	92	TVV000	R21	Corral Gustavo	2222222	
+ 	 	93	CQR403	Ford Fiesta	Coria Ramón	22222222	
+ 	 	94	UJQ814	Chevette	Carreño Judith	4811967-154888722	
+ 	 	95	BUJ232	Mistubishi importado	Cottibori	22222222	
+ 	 	96	CHP875	R19	Carrasco Damián	4810580	
+ 	 	97	VKT546	Chevrolet C10	Chacón Hector	4813949	
+ 	 	98	SKK819	Peugeot 504	Corinto	2222222	
+ 	 	99	SOS200	Gol	Calivar Juan	222222222	
+ 	 	100	SZB999	P504	Cavagnaro Enrique	4972276	
+ 	 	101	CGZ572	Fiat Siena	Cardenas Juan	4975720	
+ 	 	102	TLI452	R6	Castillo Silvia	4974658	
+ 	 	103	AIV856	Peugeot 505	Calderone Mario	4972577	
+ 	 	104	WIT510	R18	Carlos Calvo	22222222	
+ 	 	105	ALY096	Fiat uno	Costarelli Juan	4973876	
+ 	 	106	AVW599	Fiat Duna	Corbalán Rodolfo	4810432	
+ 	 	107	DBJ538	Clio	Cabrera Raul	222222222	
+ 	 	108	SED105	R12	Calise Ceferino	155697468	
+ 	 	109	WXL579	Renoleta	Contreras Miguel	4977979	
+ 	 	110	WVT510	R18	Calvo Carlos	4813221|	
+ 	 	111	CVJ030	Renault clio	Cordero José	4975648	
+ 	 	112	RPP877	Fiat uno	Osvaldo Cruz	154532772	
+ 	 	113	AIW381	Fiat duna	Carola Puebla	22222222	
+ 	 	114	DAS928	Chevrolet Luv	Capac	4973412	
+ 	 	115	WTL820	P504	Castro Marcelo (acopios)	4390611	
+ 	 	116	WRA393	Super europa	Campos Lucía	155159261	
+ 	 	117	AXR277	R19	Colucci Roberto	4978305	
+ 	 	118	TBU119	Fiat	Characan Juan	4931684	
+ 	 	119	UYA751	gacel	Charamoni Carolina	154685208	
+ 	 	120	ATL448	Duna	Cartellone	22222222	
+ 	 	121	VLF528	F100	Calcagno Santos	4932203	
+ 	 	122	ETD015	Uno	Lamy Federico	155692721	
+ 	 	123	J00341	Falcon	Cacedo Cayetano	155947843	
+ 	 	124	ABK742	Ford	Dominguez	154545030	
+ 	 	125	VEW775	Dodge 100	Cubertino Daniel	4261391	
+ 	 	126	SQR713	Duna	Chinigioli	4978039	
+ 	 	127	XBJ452	Dodge 1500	Cortez María	4976179	
+ 	 	128	VZK091	Galaxy	Calderón y López	4973110	
+ 	 	129	VJL673	P504	Coria Miguel	222222222	
+ 	 	130	BEK477	Chevrolet S10	Castro Raul	222222222	
+ 	 	131	THS555	R18	Carrizo Sergio	4933090	
+ 	 	132	VLI416	P504	Contreras Jose	22222222	
+ 	 	133	BBU928	VW	Carrizo	155266517	
+ 	 	134	AGG477	Gol	Doello Pablo	4978406	
+ 	 	135	TFI655	R12	Dichiara Federico	155602230-4812302	
+ 	 	136	ARN273	P306	Delfabro Juan Carlos	4972924	
+ 	 	137	TEJ003	D1500	D. Francisco Pablo (farmacia San Pedro)	4973865	
+ 	 	138	UNN463	Fiat uno	Dominguez Lorena	4810232	
+ 	 	139	WPG338	Traffic	Diaz Eduardo	4974188	
+ 	 	140	WSM414	P505	Deblasi Marcos	155165671	
+ 	 	141	UPL218	R12	Devia Jose	2222222	
+ 	 	142	TEM727	P405	Diraimondo Luis	4290650	
+ 	 	143	AZY041	Gol	Dutto Diego	4976138	
+ 	 	144	M02683	Chevrolet	Diaz Carlos	4990298	
+ 	 	145	UDP579	VW Senda	De la Rosa Antonio	4979169	
+ 	 	146	SWN663	R9	Danitz Pablo	4979004	
+ 	 	147	RFB555	Fiat Brio	Danitz Pablo	4979004	
+ 	 	148	UVO506	Kia	Desima Oscar	4975397	
+ 	 	149	BGM850	F100	Dalmaso Juan Pablo	4977579	
+ 	 	150	VJT708	Rastrojero	Danielle Hector	2222222	
+ 	 	151	VJT708	Rastrojero	Danielle Hector	2222222	
+ 	 	152	RAC556	Renault Fuego	Escudero Marcela	22222222	
+ 	 	153	TXX559	R12	Emiliano	4974858	
+ 	 	154	BHD551	Asia Topic	Exo Transporte S.A.	154545438-4811190	
+ 	 	155	BQP147	Transit	Exo Transporte	155637723	
+ 	 	156	ROT513	Duna	Entre Rios Jorge	155574625	
+ 	 	157	AAC118	Explorer	Echegaray Italo	4979192	
+ 	 	158	AAC118	Explorer	Echegaray Italo	4979192	
+ 	 	159	RXN277	Pick up	Estrada Mauricio	22222222	
+ 	 	160	SOX141	P505	Escudero Nidia	4814342	
+ 	 	161	CUP147	P306	Estoco	4972645	
+ 	 	162	USN006	Rastrojero	Escudero Santos	4951955	
+ 	 	163	CHW900	Duna	Funes Alejandro	155443126	
+ 	 	164	UPO731	Chevrolet C10	Italiani Fernando	4931485	
+ 	 	165	SRD275	F Falcon	Lencina Ramón	154162870	
+ 	 	166	ANA971	Fiat uno	Codi Maria Ines	155556608	
+ 	 	167	BZO279	Fiat Palio	Fernandez Juan Carlos	4990236	
+ 	 	168	BNT274	Escort	Fares Laura	2222222	
+ 	 	169	SMB960	F100	Fernandez Alberto	22222222	
+ 	 	170	RGY796	Gol	Fernandez Pablo	4979460	
+ 	 	171	WHL385	P504	Luison Felipe	22222222	
+ 	 	172	DDB815	P206	Falitti	22222222	
+ 	 	173	UXS863	Fiat 1500	Funes Eduardo	4811261	
+ 	 	174	AQV058	P405	Finis Federico	4976710	
+ 	 	175	AEL081	pointer	Figliolo Sebastián	4975837	
+ 	 	176	BFT208	Sprinter	Fer Bus	4392150	
+ 	 	177	TAF205	P504	Fernandez Gustavo	156590157	
+ 	 	178	OUE997	Chevy	Fernandez Segundo	4976571	
+ 	 	179	ANY385	Duna	Farrando Alberto	222222222	
+ 	 	180	LHA412	Chevrolet C10	Formacha	4973708	
+ 	 	181	CBA792	Clio	Furio Juan Pablo	155558446	
+ 	 	182	URV069	F128	Fredes Oscar	4810691	
+ 	 	183	BZD711	Nissan	Fiorentini Ruben	22222222	
+ 	 	184	RKW930	Saveiro	Fictrex S.A. (Lubritodo)	4978082	
+ 	 	185	CAD048	F Fiesta	Feriozi Ernesto	4930835-155104236	
+ 	 	186	SAK742	Jeep	Fredes Dante	155164318	
+ 	 	187	TRT739	R12	Fernendez Victor	22222222	
+ 	 	188	RQA103	Fiat Iveco	Fernadez Stella Maris	4990458	
+ 	 	189	CGJ573	Escort	Funes Juan Manuel	4962336	
+ 	 	190	DLN867	Ford Ranger	Gomez Eduardo	155461135	
+ 	 	191	RAE853	R12	Gimenez Norberto	22222222	
+ 	 	192	TKI226	Dodge 100	Grenon Mauricio	4979736	
+ 	 	193	TNO615	F Galaxy	Perez Pedro G. Sur	4238338	
+ 	 	194	XBL647	GTX	Gomez Pablo	155171975	
+ 	 	195	DPZ542	F 250	Galian Dario	4930817	
+ 	 	196	WPZ781	Fiat 147	García Raul	22222222	
+ 	 	197	AAA001	Fiat 147	Godoy Gaston	4811266	
+ 	 	198	BGR886	VW Polo	Gonzaka Anil	22222222	
+ 	 	199	XCQ348	Taunus	Gabardos Orlando	154196196	
+ 	 	200	AVB892	Chevrolet Blazer	Guapido Jorge	4979950	
+ 	 	201	AGP133	R19	García Jorge	4131452	
+ 	 	202	BQR886	Polo	Gonzales Daniel	22222222	
+ 	 	203	RXM394	P504	Guerra Mariela	4363741	
+ 	 	204	WUA526	Falcon	García Gustavo	155361753-4527539	
+ 	 	205	SNJ894	R11	García Jorge	4131452-155079006	
+ 	 	206	UAV375	Honda Acti	Gremon Mauricio	4979736	
+ 	 	207	UVA879	F100	Guterrez Rogelio	156606833	
+ 	 	208	WTB596	R12	Gomez Antonio	4811447	
+ 	 	209	VOX577	F100	Gutierrez Rogelio	156606833	
+ 	 	210	SLS195	R19	García Walter	4360577	
+ 	 	211	DDE380	Courier	Gulino Leandro	4974151	
+ 	 	212	DAL314	Ford Ka	Cony Julio	4972895	
+ 	 	213	ADA788	VW Gol	Gonzales Mariano	4972205	
+ 	 	214	SIT742	R12	Gomez Raul	4812875	
+ 	 	215	TRI237	P405	Gagliano Miguel	4931047	
+ 	 	216	RTC313	P504	Garcia Pedro	4814394	
+ 	 	217	SXC685	R12	Gil Jose	154601569	
+ 	 	218	RQQ332	Chevette	Guardia Ricardo	4931061	
+ 	 	219	UTI591	R12	Gonzales Jorge	154683450	
+ 	 	220	VEV636	Saveiro	Gonzales Guillermo	22222222	
+ 	 	221	UNN294	P405	Gomez Roberto	4977679	
+ 	 	222	RIN450	Dodge 1500	Guevara Pablo	4975974	
+ 	 	223	AKV860	Peugeot Pick up	García Roxana	22222222	
+ 	 	224	AYW615	Golf	Gelardi Marcelo	4973490	
+ 	 	225	BOV021	VW Gol	Gilardi Rodolfo	4973915	
+ 	 	226	TPU221	Regatta Weekend	Gil Jose	4976665	
+ 	 	227	AAC076	Gacel	Granizo	4931624	
+ 	 	228	CHU794	P 504 Pick up	Grifouliere Luis	4973297	
+ 	 	229	TJU559	Dodge 1500	Garrido Adriana	4972107-4977616	
+ 	 	230	UVQ783	F100	Izquierdo Marcelo	4810410	
+ 	 	231	DJP916	S10	HDS	22222222	
+ 	 	232	DPV113	R Express	HDS	4980174	
+ 	 	233	REW837	R19	Ibarra Gustavo	4362615	
+ 	 	234	WSM639	Renault 4L	Herrera Silveiro	4976463	
+ 	 	235	AGI211	F100	HDS	22222222	
+ 	 	236	SQO424	P504	Menz Hipólito	222222222	
+ 	 	237	VJS921	Fiat 600	Henriquez Nicolas	22222222	
+ 	 	238	RZU760	P504	Irrera Juan	4975170	
+ 	 	239	RZU670	P504 Pick up	Izaguirre omar	4812789	
+ 	 	240	TKJ167	R9	Hernandez Gustavo	4930801	
+ 	 	241	TNR192	R12	Irrera Juan	4975170	
+ 	 	242	CKC729	Alfa Romeo	Jorge	155251863	
+ 	 	243	TRI367	R12	Kairuz Omar	4815208	
+ 	 	244	RYO080	Ford Sierra	Jardinero	22222222	
+ 	 	245	WZO561	R18 coupe	Jacone Gustavo	4977512	
+ 	 	246	UVZ700	Nissan SX 200	Jofré Raul	22222222	
+ 	 	247	BZU275	Palio	Yapas Elian	22222222	
+ 	 	248	TOZ774	Regatta	Jofre	22222222	
+ 	 	249	SXB599	Peugeot	Jiunta Carlos	22222222	
+ 	 	250	VOG026	R4	Linares Pablo	4811044	
+ 	 	251	VOY497	P504	Lucero Alberto	4813893	
+ 	 	252	MNV348	P504	Linares Diego	4815140	
+ 	 	253	TRY594	R19	Lascana Matias	4973379	
+ 	 	254	LLP063	Ford Explorer	Lamy Hugo	2222222	
+ 	 	255	BNK480	Fiat uno	Lamy Daniela	222222222	
+ 	 	256	UMM302	Chevrolet C10	Lazzaro Juan Carlos	4360492	
+ 	 	257	CPG857	R19	Lodolo Alberto	22222222	
+ 	 	258	WZU383	Tempra	Leonarelo	154530823	
+ 	 	259	UAD036	F100	Leiva Americo	4810223	
+ 	 	260	AEE802	R9	Lamy Hugo	22222222	
+ 	 	261	BRJ055	Palio	Lucentini	4990257	
+ 	 	262	BZM350	P504 Pick up	Lucero Ariel	2222222	
+ 	 	263	AUM572	R9	Lacroux Jorge	22222222	
+ 	 	264	TKN822	R12	Luque de Jofré Mariana	4812552	
+ 	 	265	VLW993	Chevrolet Apache	Lucero Roberto	4975121	
+ 	 	266	VKT935	Pick up 504	Ledesma Pablo	155103379	
+ 	 	267	STA320	Peugeot	Lucentini	4974905	
+ 	 	268	WRD346	Fiat 147	Luna	4952139	
+ 	 	269	GRD275	Falcon	Lencina Ramón	22222222	
+ 	 	270	UEU983	Gacel	Luconi Italo	2222222	
+ 	 	271	SUX681	Chevrolet C10	Lucero Nestor	4930602	
+ 	 	272	DJP923	Chevrolet	Loyola Alberto	154532148	
+ 	 	273	VOE701	F100	Laurencio Mario	2222222	
+ 	 	274	RJP431	Rastrojero	Lorenzo Federico	4972627	
+ 	 	275	VLF669	Dodge 1500	Maugeri Eduardo	22222222	
+ 	 	276	M11550	Torino	Mion Ricardo	4399775	
+ 	 	277	BTU652	Trafic	Muedas Jose luis	4977783-155350396	
+ 	 	278	SUB623	Fiat	Muñez	4811814	
+ 	 	279	TGT424	Gacel	Miatello Ricardo	4814543	
+ 	 	280	STA 31	F100	Mulatero Fernando	156578489	
+ 	 	281	AWW179	Fiat 147	Henriquez Pablo	4932718	
+ 	 	282	XAB129	P504	Richard Masters	2222222	
+ 	 	283	M17827	Dodge 1500	Malentacchi Fernando	4976299	
+ 	 	284	BLM640	R19	Movio Miguel Angel	4978724	
+ 	 	285	AYY111	Mercedes Benz 180V	Hospital de Maipu	22222222	
+ 	 	286	SYA859	Traffic	Mamani Israel	156607242	
+ 	 	287	TNI407	Rastrojero	Montenegro	4973826	
+ 	 	288	TIW797	F147	Murua Marcos	154160817	
+ 	 	289	WQB028	Falcon	Moran Gustavo	22222222	
+ 	 	290	RAI809	R18	Matolini Adrian	22222222	
+ 	 	291	BQM621	R19	Mendoza Daniel	2222222	
+ 	 	292	RUM563	Fiat 1500	Muñoz Jose	4360806-156536096	
+ 	 	293	CYH384	Caddy	Magallanes	22222222	
+ 	 	294	TUB230	Dacia	Montero Jorge	4977565	
+ 	 	295	VAT671	R12	Molina Sergio	155100796	
+ 	 	296	UYM392	R19	Morales Graciela	222222222	
+ 	 	297	RGJ511	Ford Escort	Muñoz Carlos	4522356	
+ 	 	298	WYW566	Duna	Montenegro Sebastián	4975696	
+ 	 	299	VJM748	R6	Mazzega Andrea	4990617	
+ 	 	300	UQD324	F128	Malicra Juan	4974829	
+ 	 	301	UIT184	Taunus	Maizares Eulogio	222222	
+ 	 	302	UQQ163	VW Gacel	Michelan Viviana	222222222	
+ 	 	303	RGE364	P504	Mangione Walter	4972198	
+ 	 	304	SNW327	Gol	Moyano Jorge	4260717	
+ 	 	305	DWG367	Seat Cordoba	Macar	4932190	
+ 	 	306	CGE869	Siena	Maldonado Juan Jose	4911860	
+ 	 	307	AFP039	Duna	Martinez Gonzalo	4975030	
+ 	 	308	BFG469	F100	Mancifesta Ricardo	4811512	
+ 	 	309	SXE696	P504	Mendoza Dario	222222222	
+ 	 	310	RXO170	Regata	Moron Walter	4974454	
+ 	 	311	TBP689	Torino	Molina Mario	155198107	
+ 	 	312	ADN668	Fiat 147	Mezabotta Mauricio	4972435	
+ 	 	313	BYX094	Fiat Palio	Maure Alberto	4521234	
+ 	 	314	TUS684	VW 1500	Melonari Mariano	155188942	
+ 	 	315	SMB911	Saveiro	Minicipalidad de Maipú	2222222	
+ 	 	316	AAC444	Pick up 504	Musuianisi Mariela	4972658	
+ 	 	317	RXO080	Sierra	Maciero Luis	4979522	
+ 	 	318	TDW146	Jeep	Miliucha Marcelo	4932484	
+ 	 	319	TID618	Fiat uno	Morales Mauricio	4815149	
+ 	 	320	RNT468	Torino	Mariño Fausto	4973213	
+ 	 	321	VID707	P504 camioneta	Malano Roberto	4394134	
+ 	 	322	TXX537	R6	Manasero Andrea	4973929	
+ 	 	323	DIR527	Clio	Mazetto Javier	22222222	
+ 	 	324	WZX064	P504	Vicentela Mónica	4932599	
+ 	 	325	RXD080	Sierra	Maciero Luis	4979222	
+ 	 	326	RAC865	Fiat Duna	Morales Mario	155666592	
+ 	 	327	TOZ549	F100	Malentachi	4976244	
+ 	 	328	DBJ592	P106	Maturano	155022695-4975431	
+ 	 	329	CTT770	Nissan	Morales	22222222
