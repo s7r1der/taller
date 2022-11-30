@@ -21,7 +21,7 @@ switch($_SESSION["action"]){
 				."</b></font></center>";
 			}else{
 				echo "<center><font color=\"white\"><b>"
-				."No existe coincidencia entre la contraseña y su verificación. <br>"
+				."No existe coincidencia entre la contraseï¿½a y su verificaciï¿½n. <br>"
 				."Repita la operacion."
 				."</b></font></center>";
 		}
@@ -29,4 +29,3 @@ switch($_SESSION["action"]){
 	}
 
 }
-?>

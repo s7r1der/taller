@@ -80,4 +80,3 @@
 			}
 	echo "</table></td><tr/>";
 	tab_gral_end();
-?>
